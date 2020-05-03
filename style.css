@@ -8,6 +8,6 @@ header{
 	color: #69173e;
 }
 .logo{
-	background-image:url(logo.jpg);
+	background-image:url(resources/icons/logo.jpg);
 	background-size: cover;
 }
