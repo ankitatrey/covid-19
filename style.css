@@ -1,0 +1,13 @@
+*{
+	margin:10;
+	padding: 10;
+	font-family: Arial Monospace;
+}
+
+header{
+	color: #69173e;
+}
+.logo{
+	background-image:url(logo.jpeg);
+	background-size: cover;
+}
