@@ -32,4 +32,5 @@ body,td,th {
 
 A {
   text-decoration: none;
+  text-shadow: 0.5px 1px 5px #000;
   }
