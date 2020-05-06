@@ -4,6 +4,7 @@ h1 {
 p { 
   text-shadow: 2px 1px 1px #000;
 }
+body {
 	background-image: url(../resources/images/world-map.jpg);
 	background-repeat: repeat;
 	margin-left: 150px;
