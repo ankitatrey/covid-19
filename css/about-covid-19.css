@@ -1,31 +1,26 @@
 h1 {
      text-shadow: 0 0 20px #FF0000;
 }
+
 p { 
   text-shadow: 2px 1px 1px #000;
 }
+
 body {
-	background-image: url(../resources/images/world-map.jpg);
+	background-image: url(../resources/images/blur/world-map.jpg);
 	background-repeat: repeat;
 	margin-left: 150px;
 	margin-top: 50px;
 	margin-right: 150px;
 	margin-bottom: 20px;
 }
+
 body,td,th {
 	color: #FFF;
 	font-family: Verdana, Geneva, sans-serif;
 	font-style: normal;
 }
-.heading-about {
-	font-family: Verdana, Geneva, sans-serif;
-}
-.font-front-page {
-	font-family: Georgia, Times New Roman, Times, serif;
-}
-.front-page-link {
-	font-family: Verdana, Geneva, sans-serif;
-}
+
 .purpose, .content, .details{
   border:10px solid #000000;
   border-radius: 20px;
@@ -33,11 +28,13 @@ body,td,th {
   margin-top: 10px;
   margin-bottom: 20px;
 }
+
 #detailtable{
   border:3px solid #000000;
   border-radius: 20px;
   padding:40px;
 }
+
 A {
   text-decoration: none;
   text-shadow: 0.5px 1px 5px #000;

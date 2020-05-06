@@ -2,10 +2,6 @@ h1 {
     text-shadow: 0 0 20px #FF0000;
 }
 
-p {
-    text-shadow: 2px 1px 1px #000;
-}
-
 body {
 	background-image: url(../resources/images/0271.jpg);
 	background-repeat: repeat;
@@ -19,15 +15,7 @@ body,td,th {
 	color: #FFF;
 	font-family: Verdana, Geneva, sans-serif;
 	font-style: normal;
-}
-.heading-about {
-	font-family: Verdana, Geneva, sans-serif;
-}
-.font-front-page {
-	font-family: Georgia, Times New Roman, Times, serif;
-}
-.front-page-link {
-	font-family: Verdana, Geneva, sans-serif;
+	text-shadow: 2px 1px 1px #000;
 }
 
 A {

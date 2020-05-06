@@ -1,4 +1,4 @@
-tah1 {
+h1 {
     text-shadow: 0 0 20px #FF0000;
 }
 
@@ -19,15 +19,6 @@ body,td,th {
 	color: #FFF;
 	font-family: Verdana, Geneva, sans-serif;
 	font-style: normal;
-}
-.heading-about {
-	font-family: Verdana, Geneva, sans-serif;
-}
-.font-front-page {
-	font-family: Georgia, Times New Roman, Times, serif;
-}
-.front-page-link {
-	font-family: Verdana, Geneva, sans-serif;
 }
 
 A {
