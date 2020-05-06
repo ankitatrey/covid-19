@@ -34,3 +34,7 @@ A {
 	margin-bottom: 50px;
 	margin-top: 50px;
 }
+img{
+	float: left;
+	margin: 10px;
+}
