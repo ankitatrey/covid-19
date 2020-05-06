@@ -15,6 +15,7 @@ body, td, th {
 	color: #FFF;
 	font-family: Verdana, Geneva, sans-serif;
 	font-style: normal;
+	text-shadow: 0 0 20px #000000;
 }
 
 A {
