@@ -34,22 +34,11 @@ A {
   text-decoration: none;
   text-shadow: 0.5px 1px 5px #000;
   }
-
-  #no1{
-  	display: block;
-  margin-left: auto;
-  margin-right: auto;
-
-  }
-.box-image img{
+img{
 	display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+	margin-left: auto;
+	margin-right: auto;
+ outline:  5px solid #278c42;
+	
 
-.wrapper{
-	margin-bottom: 40px;
-	margin-top: 30px;
-	word-spacing: 0.2em;
 }
