@@ -16,12 +16,13 @@ li {
 
 
 body {
-	background-image: url(../resources/images/blur/world-map.jpg);
-	background-repeat: repeat;
+	background-image: url(../resources/images/world-map.jpg);
+
+	background-repeat: 100% 100%;
 	margin-left: 150px;
 	margin-top: 50px;
 	margin-right: 150px;
-	margin-bottom: 50px;
+	margin-bottom: 20px;
 }
 
 body, td, th {
@@ -34,22 +35,11 @@ A {
   text-decoration: none;
   text-shadow: 0.5px 1px 5px #000;
   }
+img{
+	max-width: 45%;
+	height: auto;
+	padding: 12px;
+	margin-right: auto;
+	margin-left: auto;
 
-  #no1{
-  	display: block;
-  margin-left: auto;
-  margin-right: auto;
-
-  }
-.box-image img{
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-.wrapper{
-	margin-bottom: 40px;
-	margin-top: 30px;
-	word-spacing: 0.2em;
 }
