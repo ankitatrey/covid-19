@@ -11,6 +11,27 @@ body {
 	margin-bottom: 20px;
 }
 
+@media (max-width: 500px){
+	body{
+		margin:20px;
+	}
+    table,tr,td{
+
+    	
+    	padding-right:auto;
+    	padding-left:auto;
+    	padding-top:3px;
+    	padding-bottom:3px;
+    
+    	display: block;
+    	width:100%;
+    }
+    tr,td{
+
+    	display: block;
+    	padding: 2rem auto;
+    }
+}
 body,td,th {
 	color: #FFF;
 	font-family: Verdana, Geneva, sans-serif;
@@ -18,7 +39,7 @@ body,td,th {
 	text-shadow: 2px 1px 1px #000;
 }
 
-A {
+a {
   text-decoration: none;
   text-shadow: 0.5px 1px 5px #000;
   }

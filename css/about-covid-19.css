@@ -1,6 +1,9 @@
 h1 {
      text-shadow: 0 0 20px #FF0000;
 }
+h2 {
+  text-shadow: 0 0 20px #FF0000;
+}
 
 p { 
   text-shadow: 2px 1px 1px #000;
@@ -35,11 +38,17 @@ body,td,th {
   padding:40px;
 }
 
-A {
+a{
   text-decoration: none;
   text-shadow: 0.5px 1px 5px #000;
+  color: #3498db;
 }
 
+a:hover{
+  text-decoration: underline;
+  font-size: 20px;
+  transition: 0.3s;
+}
 .buttons a{
   border: 0;
     background: none;

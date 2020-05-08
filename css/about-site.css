@@ -37,9 +37,12 @@ body,td,th {
   border-radius: 20px;
   padding:20px;
 }
+td{
+  padding: 7px;
 
-A {
-  text-decoration: none;
+}
+a {
+  color:#3498db;
   text-shadow: 0.5px 1px 5px #000;
 }
 .buttons a{
